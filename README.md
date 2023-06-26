@@ -14,6 +14,7 @@ Bu proje Node.js(express) ile yazılmış instagram benzeri backend projesidir. 
  * express-body-parser-error-handler
  * dotenv
  * validator
+ * path
 
 <hr>
 
