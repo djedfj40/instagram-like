@@ -17,7 +17,7 @@ Kullanılan teknolojiler ve eklentiler:
 
 <hr>
 
-Projede Kullanıcının kullanabileceği özellikler:
+Projede var olan özellikler:
 
 * Herkesin gönderdiği her isteği loglamak
 * Bir mobil uygulama için kullanılabilecek bir backend projesi olduğu için, versiyon kontrolü
