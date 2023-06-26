@@ -19,8 +19,6 @@ Kullanılan teknolojiler ve eklentiler:
 
 Projede olan özellikler:
 
-Ana özellikler
-<hr>
 * Kullanıcı kaydı
 * Kullanıcı girişi
 * Kullanıcı şifre sıfırlama
@@ -32,7 +30,6 @@ Ana özellikler
 * Kullanıcının başka profillere bakabilmesi
 * Kullanıcının diğer kullanıcıları ismiyle arayıp bulabilmesi
 * Kullanıcının diğer kullanıcıları rapor edebilmesi
-<hr>
 * Kullanıcının gönderi yükleyebilmesi
 * Kullanıcının gönderi silebilmesi
 * Kullanıcının diğer kişilerin yüklediği gönderileri görebilmesi ve beğenip yorum yapabilmesi
