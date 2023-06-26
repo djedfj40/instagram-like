@@ -2,10 +2,20 @@
 
 Bu proje Node.js(express) ile yazılmış instagram benzeri backend projesidir.
 
-Kullanılan Teknolojiler:
+Kullanılan teknolojiler ve eklentiler:
 
- * Alt madde a
-  * Alt madde b
+ * Nodejs
+ * Express
+ * Javascript
+ * MySQL
+ * JWT
+ * Crypto
+ * express-fileupload
+ * express-body-parser-error-handler
+ * dotenv
+ * validator
+
+   
 <hr>
 deneme
 
