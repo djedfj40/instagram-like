@@ -16,6 +16,5 @@ Kullanılan teknolojiler ve eklentiler:
  * validator
 
    
-<hr>
 deneme
 
