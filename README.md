@@ -36,6 +36,7 @@ Bu proje Node.js(express) ile yazılmış instagram benzeri backend projesidir. 
 * Kullanıcının gönderi yükleyebilmesi
 * Kullanıcının gönderi silebilmesi
 * Kullanıcının diğer kişilerin yüklediği gönderileri görebilmesi ve beğenip yorum yapabilmesi
+* Kullanıcının başka birinin profilinde o kişinin daha önce yüklediği gönderileri görebilmesi
 * Kullanıcının yaptığı yorumu silebilmesi
 * Kullanıcının diğer gönderileri kaç kişinin beğendiğini ve yorum yaptığını görebilmesi
 * Kullanıcının diğer kişilerin gönderideki yorumlarını görebilmesi
@@ -47,4 +48,3 @@ Bu proje Node.js(express) ile yazılmış instagram benzeri backend projesidir. 
 * Kullanıcının aynı instagramdaki gibi bir dmboxa sahip olması ve daha önce mesajlaştığı kişileri görebilmesi
 * Kullanıcının dmboxtan bir kişiye tıklayıp geçmiş mesajlarını görebilmesi
 * Mobil uygulamada rahatlık olması açısından kullanıcıya ait olan gönderi,hikaye,mesaj gibi özelliklerin hasOwn parametresi ile kendisinin olup olmadığının anlaşılması
-
