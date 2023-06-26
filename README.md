@@ -44,6 +44,7 @@ Bu proje Node.js(express) ile yazılmış basit bir instagram benzeri backend pr
 * Kullanıcının kişilerin hikayelerini beğenebilmesi
 * Kullanıcının kendi hikayesini kaç kişinin beğendiğini görebilmesi
 * Kullanıcıya yükleneli 24 saati geçen hikayelerin gösterilmemesi
+* Kullanıcıya daha önce baktığı hikayelerin gösterilmemesi
 * Kullanıcının diğer kullanıcılara mesaj atabilmesi ve mesajları silebilmesi
 * Kullanıcının aynı instagramdaki gibi bir dmboxa sahip olması ve daha önce mesajlaştığı kişileri görebilmesi
 * Kullanıcının dmboxtan bir kişiye tıklayıp geçmiş mesajlarını görebilmesi
