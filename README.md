@@ -48,3 +48,4 @@ Bu proje Node.js(express) ile yazılmış basit bir instagram benzeri backend pr
 * Kullanıcının aynı instagramdaki gibi bir dmboxa sahip olması ve daha önce mesajlaştığı kişileri görebilmesi
 * Kullanıcının dmboxtan bir kişiye tıklayıp geçmiş mesajlarını görebilmesi
 * Mobil uygulamada rahatlık olması açısından kullanıcıya ait olan gönderi,hikaye,mesaj gibi özelliklerin hasOwn parametresi ile kendisinin olup olmadığının anlaşılması
+* MD5 ve SHA1 güvenlik açısından zayıf olduğu için kullanıcı parolaları için SHA256 kullanıldı
