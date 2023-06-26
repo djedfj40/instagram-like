@@ -41,7 +41,10 @@ Bu proje Node.js(express) ile yazılmış instagram benzeri backend projesidir. 
 * Kullanıcının diğer kişilerin gönderideki yorumlarını görebilmesi
 * Kullanıcının hikaye yükleyebilmesi ve silebilmesi
 * Kullanıcının kişilerin hikayelerini beğenebilmesi
+* Kullanıcının kendi hikayesini kaç kişinin beğendiğini görebilmesi
 * Kullanıcıya yükleneli 24 saati geçen hikayelerin gösterilmemesi
 * Kullanıcının diğer kullanıcılara mesaj atabilmesi ve mesajları silebilmesi
 * Kullanıcının aynı instagramdaki gibi bir dmboxa sahip olması ve daha önce mesajlaştığı kişileri görebilmesi
+* Kullanıcının dmboxtan bir kişiye tıklayıp geçmiş mesajlarını görebilmesi
+* Mobil uygulamada rahatlık olması açısından kullanıcıya ait olan gönderi,hikaye,mesaj gibi özelliklerin hasOwn parametresi ile kendisinin olup olmadığının anlaşılması
 
