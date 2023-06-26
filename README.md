@@ -20,7 +20,7 @@ Bu proje Node.js(express) ile yazılmış basit bir instagram benzeri backend pr
 
 ## Projede olan özellikler:
 
-* Herkesin gönderdiği her isteği loglamak
+* Request logger
 * Bir mobil uygulama için kullanılabilecek bir backend projesi olduğu için, versiyon kontrolü
 * Kullanıcı kaydı
 * Kullanıcı girişi
