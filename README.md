@@ -19,6 +19,8 @@ Kullanılan teknolojiler ve eklentiler:
 
 Projede olan özellikler:
 
+* Herkesin gönderdiği her isteği loglamak
+* Bir mobil uygulama için kullanılabilecek bir backend projesi olduğu için, versiyon kontrolü
 * Kullanıcı kaydı
 * Kullanıcı girişi
 * Kullanıcı şifre sıfırlama
