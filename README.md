@@ -17,7 +17,7 @@ Kullanılan teknolojiler ve eklentiler:
 
 <hr>
 
-Projede olan özellikler:
+Projede Kullanıcının kullanabileceği özellikler:
 
 * Herkesin gönderdiği her isteği loglamak
 * Bir mobil uygulama için kullanılabilecek bir backend projesi olduğu için, versiyon kontrolü
@@ -38,5 +38,9 @@ Projede olan özellikler:
 * Kullanıcının yaptığı yorumu silebilmesi
 * Kullanıcının diğer gönderileri kaç kişinin beğendiğini ve yorum yaptığını görebilmesi
 * Kullanıcının diğer kişilerin gönderideki yorumlarını görebilmesi
-* 
+* Kullanıcının hikaye yükleyebilmesi ve silebilmesi
+* Kullanıcının kişilerin hikayelerini beğenebilmesi
+* Kullanıcıya yükleneli 24 saati geçen hikayelerin gösterilmemesi
+* Kullanıcının diğer kullanıcılara mesaj atabilmesi ve mesajları silebilmesi
+* Kullanıcının aynı instagramdaki gibi bir dmboxa sahip olması ve daha önce mesajlaştığı kişileri görebilmesi
 
