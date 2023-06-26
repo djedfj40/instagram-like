@@ -2,7 +2,7 @@
 
 Bu proje Node.js(express) ile yazılmış basit bir instagram benzeri backend projesidir. Bu proje bir mobil uygulama projesine uygun şekilde geliştirilmiştir. Ben ne kadar uzun zamandır siber güvenlik ile uğraşan biri olsam bile, bu projede de her uygulamada olduğu gibi zaafiyetler olabilir ama elimden geldiğince bunların olmaması için uğraştım.
 
-# Kullanılan teknolojiler ve eklentiler:
+## Kullanılan teknolojiler ve eklentiler:
 
  * Nodejs
  * Express
@@ -18,7 +18,7 @@ Bu proje Node.js(express) ile yazılmış basit bir instagram benzeri backend pr
 
 <hr>
 
-# Projede olan özellikler:
+## Projede olan özellikler:
 
 * Herkesin gönderdiği her isteği loglamak
 * Bir mobil uygulama için kullanılabilecek bir backend projesi olduğu için, versiyon kontrolü
