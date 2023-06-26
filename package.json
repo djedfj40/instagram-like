@@ -1,0 +1,25 @@
+{
+  "name": "backend_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "express-body-parser-error-handler": "^1.0.4",
+    "express-fileupload": "^1.4.0",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "json-parse-better-errors": "^1.0.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql": "^2.18.1",
+    "validator": "^13.9.0"
+  }
+}
