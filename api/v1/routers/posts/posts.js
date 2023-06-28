@@ -25,7 +25,7 @@ router.post("/upload_post", (request, response) => { // kullanıcı gönderi yü
     const writePath = __dirname + `/../../../../public/uploads/images/posts/${image.name}`;
 
     image.mv(writePath, (err) => { // resmi dizine yaz
-        console.log(err)
+
         if (err) return response.end(`{"error":true,"message":"Bir hata oluştu"}`)
           
         const date = new Date();
@@ -52,7 +52,7 @@ router.get("/delete_post", (request, response) => { // kullanıcı kendi gönder
 
     var query = `DELETE FROM posts WHERE id = ? AND userId = ${userid}`
     db.query(query,[request.query.postid],function (err, result) {
-        console.log(err)
+
         if (err) return response.end(`{"error":true,"message":"Veritabanında bir hata oluştu"}`)
 
         return response.end(`{"error":false,"message":"Gönderiyi sildiniz}`) // Saldırgan arkadaş başkasının gönderisini silebiliyorum sansın ve biraz sevinsin :D
